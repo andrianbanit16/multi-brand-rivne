@@ -1,0 +1,363 @@
+window.MBR_CATALOG=[
+  {
+    "id": "IQ1118-220",
+    "brand": "Nike",
+    "name": "Dunk Low «Year of the Horse»",
+    "category": "Кросівки",
+    "price": 5200,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "42.5"
+    ],
+    "cm": [
+      "25",
+      "26",
+      "26.5",
+      "27"
+    ],
+    "image": "iq1118-220.webp",
+    "source": "https://www.instagram.com/multi_brand_rivne/reel/Dd5ehNPIFKc/",
+    "note": "Ціна та розміри з допису магазину. Перед замовленням підтвердь актуальність."
+  },
+  {
+    "id": "U20008LL",
+    "brand": "New Balance",
+    "name": "Abzorb 2000",
+    "category": "Кросівки",
+    "price": 5300,
+    "sizes": [
+      "42",
+      "44.5"
+    ],
+    "cm": [
+      "26.5",
+      "28.5"
+    ],
+    "image": "u20008ll.webp",
+    "source": "https://www.instagram.com/multi_brand_rivne/reel/Dd9YTd4Rrtb/",
+    "note": "Ціна та розміри з допису магазину. Перед замовленням підтвердь актуальність."
+  },
+  {
+    "id": "HV1088-502",
+    "brand": "Nike",
+    "name": "Solo Swoosh",
+    "category": "Штани",
+    "price": 2800,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "cm": [],
+    "image": "hv1088-502.webp",
+    "source": "https://www.instagram.com/multi_brand_rivne/p/DeFDfQRCAAE/",
+    "note": "Ціна та розміри з допису магазину. Перед замовленням підтвердь актуальність."
+  },
+  {
+    "id": "HV0546-351",
+    "brand": "Jordan",
+    "name": "Brooklyn Fleece",
+    "category": "Штани",
+    "price": 2900,
+    "sizes": [
+      "M",
+      "L"
+    ],
+    "cm": [],
+    "image": "hv0546-351.webp",
+    "source": "https://www.instagram.com/multi_brand_rivne/p/DeCKwSSiC8C/",
+    "note": "Ціна та розміри з допису магазину. Перед замовленням підтвердь актуальність."
+  },
+  {
+    "id": "U20006OU",
+    "brand": "New Balance",
+    "name": "2000",
+    "category": "Кросівки",
+    "price": 5200,
+    "sizes": [
+      "42.5",
+      "43"
+    ],
+    "cm": [
+      "27",
+      "27.5"
+    ],
+    "image": "u20006ou.webp",
+    "source": "https://www.instagram.com/multi_brand_rivne/reel/Dd_rlVYI_cz/",
+    "note": "Ціна та розміри з допису магазину. Перед замовленням підтвердь актуальність."
+  },
+  {
+    "id": "HJ5228-008",
+    "brand": "Nike",
+    "name": "V5 Rnr Black",
+    "category": "Кросівки",
+    "price": 3800,
+    "sizes": [
+      "42.5",
+      "43",
+      "44",
+      "45.5"
+    ],
+    "cm": [
+      "27",
+      "27.5",
+      "28",
+      "29.5"
+    ],
+    "image": "hj5228-008.webp",
+    "source": "https://www.instagram.com/multi_brand_rivne/reel/Dd8GtbJo7UL/",
+    "note": "Ціна та розміри з допису магазину. Перед замовленням підтвердь актуальність."
+  },
+  {
+    "id": "JR4006",
+    "brand": "Adidas",
+    "name": "Terrex Eastrail 3 Olive",
+    "category": "Кросівки",
+    "price": 3300,
+    "sizes": [
+      "41",
+      "42",
+      "43",
+      "46",
+      "47"
+    ],
+    "cm": [
+      "26",
+      "26.5",
+      "27.5",
+      "29.5",
+      "30.5"
+    ],
+    "image": "jr4006.webp",
+    "source": "https://www.instagram.com/multi_brand_rivne/reel/Dd5e4INoYMg/",
+    "note": "Ціна та розміри з допису магазину. Перед замовленням підтвердь актуальність."
+  },
+  {
+    "id": "HJ3735-010",
+    "brand": "Nike",
+    "name": "ACG Lava Flow Therma-Fit",
+    "category": "Куртки",
+    "price": 7100,
+    "sizes": [
+      "L"
+    ],
+    "cm": [],
+    "image": "hj3735-010.webp",
+    "source": "https://www.instagram.com/multi_brand_rivne/p/Dd1qi6lkUp7/",
+    "note": "Ціна та розміри з допису магазину. Перед замовленням підтвердь актуальність."
+  },
+  {
+    "id": "U1000432",
+    "brand": "New Balance",
+    "name": "1000G",
+    "category": "Кросівки",
+    "price": 4900,
+    "sizes": [
+      "42"
+    ],
+    "cm": [
+      "26.5"
+    ],
+    "image": "u1000432.webp",
+    "source": "https://www.instagram.com/multi_brand_rivne/reel/Dd_rZ-hoJBE/",
+    "note": "Ціна та розміри з допису магазину. Перед замовленням підтвердь актуальність."
+  },
+  {
+    "id": "U20023MB",
+    "brand": "New Balance",
+    "name": "2002R Black",
+    "category": "Кросівки",
+    "price": 6300,
+    "sizes": [
+      "41.5",
+      "43",
+      "45.5"
+    ],
+    "cm": [
+      "26",
+      "27.5",
+      "29.5"
+    ],
+    "image": "u20023mb.webp",
+    "source": "https://www.instagram.com/multi_brand_rivne/reel/Dd9YcTIx3pH/",
+    "note": "Ціна та розміри з допису магазину. Перед замовленням підтвердь актуальність."
+  },
+  {
+    "id": "HQ4309-601",
+    "brand": "Nike",
+    "name": "Mind 001 Slide Pink Smoke",
+    "category": "Капці",
+    "price": 6700,
+    "sizes": [
+      "38",
+      "39"
+    ],
+    "cm": [
+      "24",
+      "25"
+    ],
+    "image": "hq4309-601.webp",
+    "source": "https://www.instagram.com/multi_brand_rivne/reel/Dd9YIudxRWD/",
+    "note": "Ціна та розміри з допису магазину. Перед замовленням підтвердь актуальність."
+  },
+  {
+    "id": "MARISGB4",
+    "brand": "New Balance",
+    "name": "Fresh Foam Arishi V4 GTX",
+    "category": "Кросівки",
+    "price": 3900,
+    "sizes": [
+      "41.5",
+      "44.5",
+      "45",
+      "46.5"
+    ],
+    "cm": [
+      "26",
+      "28.5",
+      "29",
+      "30"
+    ],
+    "image": "marisgb4.webp",
+    "source": "https://www.instagram.com/multi_brand_rivne/reel/Dd8GRpCRnVZ/",
+    "note": "Ціна та розміри з допису магазину. Перед замовленням підтвердь актуальність."
+  },
+  {
+    "id": "U2000ETB",
+    "brand": "New Balance",
+    "name": "2000",
+    "category": "Кросівки",
+    "price": 5300,
+    "sizes": [
+      "41.5",
+      "42",
+      "42.5",
+      "43",
+      "45",
+      "45.5",
+      "46.5"
+    ],
+    "cm": [
+      "26",
+      "26.5",
+      "27",
+      "27.5",
+      "29",
+      "29.5",
+      "30"
+    ],
+    "image": "u2000etb.webp",
+    "source": "https://www.instagram.com/multi_brand_rivne/reel/Dd8Fz4MoK3o/",
+    "note": "Ціна та розміри з допису магазину. Перед замовленням підтвердь актуальність."
+  },
+  {
+    "id": "U1906RFW",
+    "brand": "New Balance",
+    "name": "1906R Cordura Brown Black",
+    "category": "Кросівки",
+    "price": 5500,
+    "sizes": [
+      "42",
+      "42.5",
+      "45"
+    ],
+    "cm": [
+      "26.5",
+      "27",
+      "29"
+    ],
+    "image": "u1906rfw.webp",
+    "source": "https://www.instagram.com/multi_brand_rivne/reel/Dd5etb9ItO6/",
+    "note": "Ціна та розміри з допису магазину. Перед замовленням підтвердь актуальність."
+  },
+  {
+    "id": "DM5217-010",
+    "brand": "Nike",
+    "name": "NSW Air Pk Black",
+    "category": "Штани",
+    "price": 2250,
+    "sizes": [
+      "M"
+    ],
+    "cm": [],
+    "image": "dm5217-010.webp",
+    "source": "https://www.instagram.com/multi_brand_rivne/p/DeEwyl8CAYR/",
+    "note": "Ціна та розміри з допису магазину. Перед замовленням підтвердь актуальність."
+  },
+  {
+    "id": "DQ7509-274",
+    "brand": "Jordan",
+    "name": "Essentials Brown",
+    "category": "Штани",
+    "price": 2900,
+    "sizes": [
+      "M"
+    ],
+    "cm": [],
+    "image": "dq7509-274.webp",
+    "source": "https://www.instagram.com/multi_brand_rivne/p/DeEwlMPCCd4/",
+    "note": "Ціна та розміри з допису магазину. Перед замовленням підтвердь актуальність."
+  },
+  {
+    "id": "FV7251-010",
+    "brand": "Jordan",
+    "name": "Flight Flc Black",
+    "category": "Штани",
+    "price": 3400,
+    "sizes": [
+      "M",
+      "L"
+    ],
+    "cm": [],
+    "image": "fv7251-010.webp",
+    "source": "https://www.instagram.com/multi_brand_rivne/p/DeEv9eWiGNB/",
+    "note": "Ціна та розміри з допису магазину. Перед замовленням підтвердь актуальність."
+  },
+  {
+    "id": "IB2243-010",
+    "brand": "Jordan",
+    "name": "Sprt Clssc",
+    "category": "Штани",
+    "price": 2550,
+    "sizes": [
+      "M"
+    ],
+    "cm": [],
+    "image": "ib2243-010.webp",
+    "source": "https://www.instagram.com/multi_brand_rivne/p/DeCd8z1CPLW/",
+    "note": "Ціна та розміри з допису магазину. Перед замовленням підтвердь актуальність."
+  },
+  {
+    "id": "IF0842-010",
+    "brand": "Nike",
+    "name": "M Nk Wr Gfx",
+    "category": "Штани",
+    "price": 3700,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "cm": [],
+    "image": "if0842-010.webp",
+    "source": "https://www.instagram.com/multi_brand_rivne/p/DeCNOU8iFxv/",
+    "note": "Ціна та розміри з допису магазину. Перед замовленням підтвердь актуальність."
+  },
+  {
+    "id": "IF0385-065",
+    "brand": "Nike",
+    "name": "Air Max TC",
+    "category": "Штани",
+    "price": 2400,
+    "sizes": [
+      "M",
+      "L"
+    ],
+    "cm": [],
+    "image": "if0385-065.webp",
+    "source": "https://www.instagram.com/multi_brand_rivne/p/DeCLyb_CP38/",
+    "note": "Ціна та розміри з допису магазину. Перед замовленням підтвердь актуальність."
+  }
+];
